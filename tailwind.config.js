@@ -26,12 +26,22 @@ export default {
       boxShadow: {
         'custom-primary': '0 4px 20px rgba(41, 26, 255, 0.8)', // Sombra personalizada
       },
-      width:{
+      width: {
         "favicon-desktop": "90px",
         "favicon-mobile": "20vw",
-        desktop: "1080px",
+        desktop: "80vw",
         mobile: "90vw",
+        "img-sm": "90vw",
+        "img-md": "27vw",
+        "img-lg": "27vw",
+        "img-xl": "24vw",
       },
+      height: {
+        "img-sm": "60vw",
+        "img-md": "18vw",
+        "img-lg": "18vw",
+        "img-xl": "16vw",
+      }
     },
   },
   plugins: [],
