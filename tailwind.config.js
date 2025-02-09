@@ -35,12 +35,16 @@ export default {
         "img-md": "27vw",
         "img-lg": "27vw",
         "img-xl": "24vw",
+        "tech-desktop": "4vw",
+        "tech-mobile": "12vw",
       },
       height: {
         "img-sm": "60vw",
         "img-md": "18vw",
         "img-lg": "18vw",
         "img-xl": "16vw",
+        "tech-desktop": "4vw",
+        "tech-mobile": "12vw",
       }
     },
   },

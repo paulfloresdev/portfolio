@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Header from "../components/Header";
 import { useLanguage } from "../providers/LanguageContext";
 import ProjectCard from "../components/ProjectCard";
+import Footer from "../components/Footer";
 
 
 const Projects: React.FC = () => {
@@ -25,7 +26,7 @@ const Projects: React.FC = () => {
             
 
             {/* Projects */}
-            <div className="w-full">
+            <div className="w-full mb-24 md:mb-36">
                 <div className="w-full flex flex-col items-center space-y-8 justify-center mb-16 mt-8">
                     <h1 className="font-bold text-3xl">{language == 'en' ? 'Projects' : 'Proyectos'}</h1>
                     <h1 className="font-medium text-center">{language == 'en' ? 'Welcome to my project portfolio! Here you\'ll find a collection of my work, showcasing a variety of software solutions and creative projects developed with dedication and passion.' : '¡Bienvenido a mi portafolio de proyectos! Aquí encontrarás una colección de mi trabajo, que muestra una variedad de soluciones de software y proyectos creativos desarrollados con dedicación y pasión.'}</h1>
@@ -44,13 +45,9 @@ const Projects: React.FC = () => {
                         />
                     ))}
                 </div>
-            </div>                
-            
-
-
-
-            <div className="h-48"></div>
+            </div>                      
         </div>
+        <Footer/>
     </div>
 };
 

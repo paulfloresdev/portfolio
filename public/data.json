@@ -28,7 +28,7 @@
             "title": "Club Premium",
             "description_en" : "The Club Premium app, built with Flutter, allows users to manage a guaranteed credit card, set custom limits, build credit, and access exclusive rewards.",
             "description_es": "La aplicación Club Premium, desarrollada con Flutter, permite a los usuarios gestionar una tarjeta de crédito garantizada, establecer límites personalizados, construir historial crediticio y acceder a recompensas exclusivas.",
-            "href": "",
+            "href": "https://clubpremium.mx/",
             "img_path": "/assets/projects/clubpremium.png",
             "tags": ["Flutter", "Dart", "API-REST"]   
         },
@@ -47,6 +47,78 @@
             "href": "",
             "img_path": "/assets/projects/grupolacore.png",
             "tags": ["Figma"]   
+        }
+    ],
+    "techs":[
+        {
+            "label": "HTML",
+            "image":"/assets/techs/html.png"
+        },
+        {
+            "label": "CSS",
+            "image":"/assets/techs/css.png"
+        },
+        {
+            "label": "Javascript",
+            "image":"/assets/techs/js.png"
+        },
+        {
+            "label": "React",
+            "image":"/assets/techs/react.png"
+        },
+        {
+            "label": "Tailwind",
+            "image":"/assets/techs/tailwind.png"
+        },
+        {
+            "label": "Flutter",
+            "image":"/assets/techs/flutter.png"
+        },
+        {
+            "label": "Laravel",
+            "image":"/assets/techs/laravel.png"
+        },
+        {
+            "label": "PHP",
+            "image":"/assets/techs/php.png"
+        },
+        {
+            "label": "Spring",
+            "image":"/assets/techs/spring.png"
+        },
+        {
+            "label": "Node",
+            "image":"/assets/techs/node.png"
+        },
+        {
+            "label": "Git",
+            "image":"/assets/techs/git.png"
+        },
+        {
+            "label": "Figma",
+            "image":"/assets/techs/figma.png"
+        }
+    ],
+    "channels": [
+        {
+            "label": "paulfloresdev",
+            "image": "/assets/channels/github.png",
+            "href": "https://github.com/paulfloresdev"
+        },
+        {
+            "label": "Paul Antonio Flores Castro",
+            "image": "/assets/channels/linkedin.png",
+            "href": "https://linkedin.com/in/paul-antonio-flores-castro-3a407b242"
+        },
+        {
+            "label": "paulflores.dev@gmail.com",
+            "image": "/assets/channels/gmail.png",
+            "href": "mailto:paulflores.dev@gmail.com"
+        },
+        {
+            "label": "(+52) 612 219 1087",
+            "image": "/assets/channels/wp.png",
+            "href": "https://wa.me/526122191087"
         }
     ]
 }

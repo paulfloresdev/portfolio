@@ -52,7 +52,7 @@ const Header: React.FC<HeaderProps> = ({ page }) => {
               onClick={toggleMenu}
             />
           )}
-          <CircularButton onClick={() => {}} type="solid" className='hidden md:block'>
+          <CircularButton href="#footer" type="solid" className='hidden md:block'>
             {language === 'en' ? 'Contact me' : 'Contáctame'}
           </CircularButton>
         </div>
