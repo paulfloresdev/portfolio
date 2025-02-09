@@ -20,7 +20,7 @@
             "title": "CANIRAC La Paz",
             "description_en" : "Website developed for CANIRAC La Paz using React and Laravel, featuring informative sections, an admin panel to manage content such as memberships, services, event calendars, contact methods, and affiliation requests.",
             "description_es": "Sitio web desarrollado para CANIRAC La Paz utilizando React y Laravel, con secciones informativas, un panel de administración para gestionar contenido como membresías, servicios, calendario de eventos, medios de contacto y solicitudes de afiliación.",
-            "href": "",
+            "href": "https://canirac.paulflores.tech/",
             "img_path": "/assets/projects/canirac.png",
             "tags": ["React", "Typescript", "Tailwind", "Vite", "Laravel", "PHP"]   
         },
