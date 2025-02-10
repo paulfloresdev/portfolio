@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
             <div className="w-1/2 md:w-1/6">
                 <LottieAnimation path={"/assets/lotties/footer.json"} className="w-full" />
             </div>
-            <div className="w-12/12 md:w-2/12 flex flex-col space-y-4 items-center ">
+            <div className="flex flex-col space-y-4 items-center ">
                 {channels.map((channel, index) => (
                     <a key={index} href={channel['href']} className="w-full flex flex-row items-center justify-start space-x-4">
                         <div className="w-12 h-12 bg-primary hover:shadow-custom-primary rounded-full p-4">
