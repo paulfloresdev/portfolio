@@ -2,101 +2,152 @@
     "projects": [
         {
             "title": "BLUSH&BLOOM",
-            "description_en" : "Elegant and intuitive e-commerce design for cosmetics, featuring vibrant visuals, seamless navigation, and a responsive user experience.",
+            "description_en": "Elegant and intuitive e-commerce design for cosmetics, featuring vibrant visuals, seamless navigation, and a responsive user experience.",
             "description_es": "Diseño de comercio electrónico elegante e intuitivo para cosméticos, con imágenes vibrantes, navegación fluida y una experiencia de usuario adaptable a dispositivos móviles.",
             "href": "",
             "img_path": "/assets/projects/blushbloom.png",
-            "tags": ["Figma"]   
+            "tags": [
+                "Figma"
+            ]
         },
         {
             "title": "Rancho San Lucas",
-            "description_en" : "Mobile and web application for Rancho San Lucas, designed to provide personalized client quotes, generate signed PDFs, and share proposal templates efficiently, streamlining the entire sales process.",
+            "description_en": "Mobile and web application for Rancho San Lucas, designed to provide personalized client quotes, generate signed PDFs, and share proposal templates efficiently, streamlining the entire sales process.",
             "description_es": "Aplicación móvil y web de Rancho San Lucas, diseñada para ofrecer cotizaciones personalizadas a clientes, generar PDFs firmados y compartir plantillas de propuestas de manera eficiente, optimizando todo el proceso de ventas.",
-            "href": "https://ranchosanlucas.keidev.tech",
+            "href": "",
             "img_path": "/assets/projects/ranchosanlucas.png",
-            "tags": ["Flutter", "Dart", "SQLite", "Figma"]   
+            "tags": [
+                "Flutter",
+                "Dart",
+                "SQLite",
+                "Figma"
+            ]
         },
         {
             "title": "CANIRAC La Paz",
-            "description_en" : "Website developed for CANIRAC La Paz using React and Laravel, featuring informative sections, an admin panel to manage content such as memberships, services, event calendars, contact methods, and affiliation requests.",
+            "description_en": "Website developed for CANIRAC La Paz using React and Laravel, featuring informative sections, an admin panel to manage content such as memberships, services, event calendars, contact methods, and affiliation requests.",
             "description_es": "Sitio web desarrollado para CANIRAC La Paz utilizando React y Laravel, con secciones informativas, un panel de administración para gestionar contenido como membresías, servicios, calendario de eventos, medios de contacto y solicitudes de afiliación.",
-            "href": "https://canirac.paulflores.tech/",
+            "href": "",
             "img_path": "/assets/projects/canirac.png",
-            "tags": ["React", "Typescript", "Tailwind", "Vite", "Laravel", "PHP"]   
+            "tags": [
+                "React",
+                "Typescript",
+                "Tailwind",
+                "Vite",
+                "Laravel",
+                "PHP"
+            ]
         },
         {
             "title": "Club Premium",
-            "description_en" : "The Club Premium app, built with Flutter, allows users to manage a guaranteed credit card, set custom limits, build credit, and access exclusive rewards.",
+            "description_en": "The Club Premium app, built with Flutter, allows users to manage a guaranteed credit card, set custom limits, build credit, and access exclusive rewards.",
             "description_es": "La aplicación Club Premium, desarrollada con Flutter, permite a los usuarios gestionar una tarjeta de crédito garantizada, establecer límites personalizados, construir historial crediticio y acceder a recompensas exclusivas.",
             "href": "https://clubpremium.mx/",
             "img_path": "/assets/projects/clubpremium.png",
-            "tags": ["Flutter", "Dart", "API-REST"]   
+            "tags": [
+                "Flutter",
+                "Dart",
+                "API-REST"
+            ]
         },
         {
             "title": "KEI",
-            "description_en" : "KEI is my personal brand through which I offer freelance software development services, providing tailored solutions to meet clients' technological needs.",
+            "description_en": "KEI is my personal brand through which I offer freelance software development services, providing tailored solutions to meet clients' technological needs.",
             "description_es": "KEI es mi marca personal mediante la cual ofrezco servicios de desarrollo de software freelance, brindando soluciones personalizadas para satisfacer las necesidades tecnológicas de mis clientes.",
-            "href": "https://keidev.tech",
+            "href": "",
             "img_path": "/assets/projects/kei.png",
-            "tags": ["React", "Typescript", "Tailwind", "Vite", "Laravel", "PHP"]   
+            "tags": [
+                "React",
+                "Typescript",
+                "Tailwind",
+                "Vite",
+                "Laravel",
+                "PHP"
+            ]
         },
         {
             "title": "Grupo La Core",
-            "description_en" : "The task-based quotation system designed for Grupo La Core follows a structured workflow with status tracking, allowing efficient management and monitoring of the quotation process from initial request to final approval.",
+            "description_en": "The task-based quotation system designed for Grupo La Core follows a structured workflow with status tracking, allowing efficient management and monitoring of the quotation process from initial request to final approval.",
             "description_es": "El sistema de cotización diseñado para Grupo La Core sigue un flujo estructurado de tareas con seguimiento de estatus, permitiendo una gestión y monitoreo eficientes del proceso de cotización desde la solicitud inicial hasta la aprobación final.",
             "href": "",
             "img_path": "/assets/projects/grupolacore.png",
-            "tags": ["Figma"]   
+            "tags": [
+                "Figma"
+            ]
         }
     ],
-    "techs":[
+    "techs": [
+        {
+            "label": "React",
+            "image": "/assets/techs/react.png"
+        },
+        {
+            "label": "TypeScript",
+            "image": "/assets/techs/ts.png"
+        },
+        {
+            "label": "JavaScript",
+            "image": "/assets/techs/js.png"
+        },
         {
             "label": "HTML",
-            "image":"/assets/techs/html.png"
+            "image": "/assets/techs/html.png"
         },
         {
             "label": "CSS",
-            "image":"/assets/techs/css.png"
-        },
-        {
-            "label": "Javascript",
-            "image":"/assets/techs/js.png"
-        },
-        {
-            "label": "React",
-            "image":"/assets/techs/react.png"
+            "image": "/assets/techs/css.png"
         },
         {
             "label": "Tailwind",
-            "image":"/assets/techs/tailwind.png"
+            "image": "/assets/techs/tailwind.png"
         },
         {
-            "label": "Flutter",
-            "image":"/assets/techs/flutter.png"
+            "label": ".NET & EF Core",
+            "image": "/assets/techs/net.png"
+        },
+        {
+            "label": "C#",
+            "image": "/assets/techs/cs.png"
         },
         {
             "label": "Laravel",
-            "image":"/assets/techs/laravel.png"
+            "image": "/assets/techs/laravel.png"
         },
         {
             "label": "PHP",
-            "image":"/assets/techs/php.png"
-        },
-        {
-            "label": "Spring",
-            "image":"/assets/techs/spring.png"
+            "image": "/assets/techs/php.png"
         },
         {
             "label": "Node",
-            "image":"/assets/techs/node.png"
+            "image": "/assets/techs/node.png"
+        },
+        {
+            "label": "MySQL",
+            "image": "/assets/techs/mysql.png"
+        },
+        {
+            "label": "SQL Server",
+            "image": "/assets/techs/sqlserver.png"
         },
         {
             "label": "Git",
-            "image":"/assets/techs/git.png"
+            "image": "/assets/techs/git.png"
+        },
+        {
+            "label": "Docker",
+            "image": "/assets/techs/docker.png"
+        },
+        {
+            "label": "Kubernetes",
+            "image": "/assets/techs/kubernetes.png"
+        },
+        {
+            "label": "Jenkins",
+            "image": "/assets/techs/jenkins.png"
         },
         {
             "label": "Figma",
-            "image":"/assets/techs/figma.png"
+            "image": "/assets/techs/figma.png"
         }
     ],
     "channels": [
